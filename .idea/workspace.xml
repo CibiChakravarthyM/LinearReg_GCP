@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:heroku" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="97eefd68-10c8-40dd-a3ea-7d03a3010541" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/amazon_app_linear/static/.idea/static.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/.idea/static.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MLForCloudDeployment_Heroku.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MLForCloudDeployment_Heroku.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/MLForCloudDeployment_Heroku.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/MLForCloudDeployment_Heroku.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/amazon_app_linear/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lfxImMDNTQyyS587sJcDy3fUvF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../../Web_Scrapper/webscrappper_text-master/reviewScrapper/flask_app.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLForCloudDeployment_Heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/envs/flight_pred_aws/Lib/site-packages/werkzeug/debug" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/envs/flight_pred_aws/Lib/site-packages/werkzeug/debug/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLForCloudDeployment_Heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLForCloudDeployment_Heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="application" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MLForCloudDeployment_Heroku" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/application.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.application" />
+        <item itemvalue="Python.app1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97eefd68-10c8-40dd-a3ea-7d03a3010541" name="Default Changelist" comment="" />
+      <created>1608001869957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608001869957</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.config" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="165" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608186822744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="165" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1608186822744" />
+    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1608228941061">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1608228941061" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1608229756942">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608229756942" />
+    <state width="1345" height="206" key="GridCell.Tab.0.bottom" timestamp="1608229776640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608229776640" />
+    <state width="1345" height="206" key="GridCell.Tab.0.center" timestamp="1608229776639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1608229776639" />
+    <state width="1345" height="206" key="GridCell.Tab.0.left" timestamp="1608229776639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1608229776639" />
+    <state width="1345" height="206" key="GridCell.Tab.0.right" timestamp="1608229776639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1608229776639" />
+    <state width="1345" height="206" key="GridCell.Tab.1.bottom" timestamp="1608229776641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1608229776641" />
+    <state width="1345" height="206" key="GridCell.Tab.1.center" timestamp="1608229776640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1608229776640" />
+    <state width="1345" height="206" key="GridCell.Tab.1.left" timestamp="1608229776640">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1608229776640" />
+    <state width="1345" height="206" key="GridCell.Tab.1.right" timestamp="1608229776641">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="206" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1608229776641" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1608178199727">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1608178199727" />
+    <state x="245" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1608227281537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="245" y="92" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1608227281537" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
